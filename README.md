@@ -2,7 +2,7 @@
 ## Hi there, I'm Saúl Solís 👋
 ### BI/Data Analyst | Psychologist | Passionate about Human Behavior and Data-Driven Insights
 ### Little Rock, AR (Willing to relocate) <br>
-📫 How to reach me: 📧 sasl09@outlook.com | [LinkedIn](www.linkedin.com/in/saúlsolís249502204) | [Portfolio](https://github.com/sasl09) | [Resume](https://docs.google.com/document/d/1c_T28Y6Nc6-Us0bZv7k1cZf6xL39Y3qC/edit?usp=sharing&ouid=112612387121471093382&rtpof=true&sd=true)
+📫 How to reach me: 📧 sasl09@outlook.com | [LinkedIn](https://www.linkedin.com/in/saúlsolís249502204) | [Portfolio](https://github.com/sasl09) | [Resume](https://docs.google.com/document/d/1c_T28Y6Nc6-Us0bZv7k1cZf6xL39Y3qC/edit?usp=sharing&ouid=112612387121471093382&rtpof=true&sd=true)
 
 ## About Me
 I'm a results-driven BI/Data Analyst with 2 years of experience in Python, SQL, Tableau, Power BI, and Excel, specializing in uncovering patterns, trends, and insights to support data-driven decision-making. My background as a Psychologist with over 12 years of experience analyzing human behavior provides me with a unique perspective when it comes to understanding data, identifying trends, and making predictions.
