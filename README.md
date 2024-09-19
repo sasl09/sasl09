@@ -14,32 +14,28 @@ Data Analysis: Python, PostgreSQL, MySQL, Excel  <br>
 Visualization: Power BI, Tableau  <br>
 Other: Data Cleaning, KPI Analysis, Data Storytelling <br> 
 
-🔭 I’m currently working on ...  <br>
-A Python Flask web app that automates data scraping and visualization.
-BI analysis projects that focus on sales optimization and customer segmentation.
+## 🔭 I’m currently working on ...  <br>
+BI/Data analysis projects that focus on sales optimization, Real Estate, human behavior, social trends and customer segmentation.
 
-🌱 I’m currently learning ...  <br>
+## 🌱 I’m currently learning ...  <br>
 Advanced Python techniques for data science.
 Machine learning and AI tools to enhance my data analysis capabilities.
 More about cloud-based databases and data warehousing solutions.
+More about cloud computing and big data tools like AWS and Google Cloud.
 
-👯 I’m looking to collaborate on ...  <br>
-BI projects that utilize Tableau, Power BI, and SQL for real-time data analysis.
+## 👯 I’m looking to collaborate on ...  <br>
+BI projects that utilize Tableau, Power BI, Excel and SQL for real-time data analysis.
 Python or SQL-based data cleaning and automation projects.
 Predictive analytics and machine learning models.
 
-🤔 I’m looking for help with ...  <br>
-Diving deeper into cloud computing and big data tools like AWS and Google Cloud.
-Optimizing machine learning models for fraud detection and customer segmentation.
-
-💬 Ask me about ...  <br>
+## 💬 Ask me about ...  <br>
 Data visualization best practices.
 Psychology and human behavior analysis.
 Creating efficient workflows for BI projects.
 
-😄 Pronouns: ...  <br>
+## 😄 Pronouns: ...  <br>
 He/Him.
 
-⚡ Fun fact: ...  <br>
+##⚡ Fun fact: ...  <br>
 -Got to the top of Pinnacle Mountain in 15:09 minutes.
 -Huge fan of House MD and Sherlock Holmes.
