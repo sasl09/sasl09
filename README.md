@@ -18,9 +18,9 @@ Other: Data Cleaning, KPI Analysis, Data Storytelling <br>
 BI/Data analysis projects that focus on Sales Optimization, Real Estate, Human Behavior, Social Trends and Customer Segmentation.
 
 ## 🌱 I’m currently learning ...  <br>
-Advanced Python techniques for data science.
-Machine learning and AI tools to enhance my data analysis capabilities.
-More about cloud-based databases and data warehousing solutions.
+Advanced Python techniques for data science. <br>
+Machine learning and AI tools to enhance my data analysis capabilities. <br>
+More about cloud-based databases and data warehousing solutions. <br>
 More about cloud computing and big data tools like AWS and Google Cloud.
 
 ## 👯 I’m looking to collaborate on ...  <br>
@@ -37,5 +37,5 @@ Creating efficient workflows for BI projects.
 He/Him.
 
 ##⚡ Fun fact: ...  <br>
--Got to the top of Pinnacle Mountain in 15:09 minutes.
+-Got to the top of Pinnacle Mountain in 15:09 minutes. <br>
 -Huge fan of House MD and Sherlock Holmes.
