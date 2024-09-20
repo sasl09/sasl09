@@ -15,7 +15,7 @@ Visualization: Power BI, Tableau  <br>
 Other: Data Cleaning, KPI Analysis, Data Storytelling <br> 
 
 ## 🔭 I’m currently working on ...  <br>
-BI/Data analysis projects that focus on sales optimization, Real Estate, human behavior, social trends and customer segmentation.
+BI/Data analysis projects that focus on Sales Optimization, Real Estate, Human Behavior, Social Trends and Customer Segmentation.
 
 ## 🌱 I’m currently learning ...  <br>
 Advanced Python techniques for data science.
