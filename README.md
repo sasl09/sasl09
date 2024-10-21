@@ -11,7 +11,7 @@ I thrive at the intersection of data and psychology, where I apply a human-cente
 
 ## Skills
 Data Analysis: Python, PostgreSQL, MySQL, Excel  <br>
-Visualization: Power BI, Tableau  <br>
+Visualization: Power BI, Tableau, Looker and Domo  <br>
 Other: Data Cleaning, KPI Analysis, Data Storytelling <br> 
 
 ## 🔭 I’m currently working on ...  <br>
